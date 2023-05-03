@@ -170,4 +170,6 @@ function checkTile(r, c) {
         return 1;
     }
     return 0;
+
+    //
 }
