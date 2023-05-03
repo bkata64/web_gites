@@ -1,4 +1,26 @@
+body{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+main{
+    width: 70%;
+    margin:auto
+}
+
 *{
-    background-image: url('infó.jpg');
-    
+    background-image: url(türkisz.jpg!d);
+}
+
+h1{
+    text-align: center;
+}
+
+p,li{
+    line-height: 24px;
+}
+
+#kep{
+    text-align: center;
 }
