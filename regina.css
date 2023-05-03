@@ -2,5 +2,5 @@ p {
     color: rgb(190, 190, 190);
 }
 img {
-    size:300px;
+    image-resolution: 10px;
 }
