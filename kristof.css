@@ -1,9 +1,23 @@
 body{
-    background-image: url("cat.jpg") ;
-    background-size: cover;
+    background-image: url("gif/tumblr_4893e313b1ac210b0039e0738ba35126_acd4d551_400.gif") ;
+    background-size: repeat;
     text-align: center;
     
 }
 iframe{
     border-radius: 30px ;
 }
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: pink;
+    text-emphasis-color: black;
+    text-shadow: -1px -3px 0 #000, 1px -3px 0 #000, -1px 3px 0 #000, 1px 5px 0 #000;
+}
+#star{
+    max-width: 100px;
+}
+/*#wink{
+    max-width: 100px ;
+    background-color: white;
+    margin-top: 30px;
+}*/
