@@ -2,6 +2,7 @@ body{
     background-image: url("gif/tumblr_4893e313b1ac210b0039e0738ba35126_acd4d551_400.gif") ;
     background-size: repeat;
     text-align: center;
+    height: auto;
     
 }
 iframe{
